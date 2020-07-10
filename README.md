@@ -1,4 +1,4 @@
-### Hi, I'm Damian 👋
+# Hi, I'm Damian 👋
 _[He/Him]_
 
 I'm a Cloud Advocate ☁🥑 at Microsoft specializing in DevOps and MLOps.
