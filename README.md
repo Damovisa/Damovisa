@@ -1,15 +1,15 @@
 ### Hi, I'm Damian 👋
-[He/Him]
+_[He/Him]_
 
 I'm a Cloud Advocate ☁🥑 at Microsoft specializing in DevOps and MLOps.
 
 After spending a year in Toronto 🍁, I returned to Australia 🦘 in 2018, and currently live in Brisbane.
 
-I used to be a dev at [Octopus Deploy](https://octopus.com) 🐙 and a Microsoft MVP 🏅, and have a background in software development and consulting in a broad range of industries. In Australia, I co-organised the Brisbane .Net User Group, and launched the now annual [DDD Brisbane](https://dddbrisbane.com) conference. I regularly speak at conferences, User Groups, and other events around the world 🌏 although these days it's via a camera
+I used to be a dev at [Octopus Deploy](https://octopus.com) 🐙 and a Microsoft MVP 🏅, and have a background in software development and consulting in a broad range of industries. In Australia, I co-organised the Brisbane .Net User Group, and launched the now annual [DDD Brisbane](https://dddbrisbane.com) conference. I regularly speak at conferences, User Groups, and other events around the world 🌏 although these days it's via a camera and mic 📹🎙.
 
 Most of the time you'll find me talking to software engineers, IT pros and managers to help them get the most out of their DevOps strategies.
 
-I also have my own DevOps show! - The DevOps Lab ([Channel 9](https://aka.ms/devopslab) or [YouTube](https://aka.ms/devopslab-yt)) 🧪🧫🥼. Check it out for real-world guidance on implementing DevOps in your organisation.
+I also have my own DevOps show! 📺 - The DevOps Lab ([Channel 9](https://aka.ms/devopslab) or [YouTube](https://aka.ms/devopslab-yt)) 🧪🧫🥼. Check it out for real-world guidance on implementing DevOps in your organisation.
 
 ## Recent videos:
 
