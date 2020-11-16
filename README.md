@@ -14,7 +14,7 @@ I also have my own DevOps show! 📺 - The DevOps Lab ([Channel 9](https://aka.m
 ## Recent videos:
 
 - 🧫 The DevOps Lab ([Channel 9](https://aka.ms/devopslab) or [YouTube](https://aka.ms/devopslab-yt))
-- 🧠 [MLOps - Building Intelligent Applications](https://www.microsoft.com/en-au/experiences/video/mlops-building-intelligent-applications/?WT.mc_id=videos-github-dabrady)
-- 🧠 [MLOps - Applying DevOps to Machine Learning](https://myignite.techcommunity.microsoft.com/sessions/83003?WT.mc_id=videos-github-dabrady)
-- 🚀 [Ship it! Build for any platform with Azure Pipelines, and make shipping fun and stress-free](https://myignite.techcommunity.microsoft.com/sessions/81619?WT.mc_id=videos-github-dabrady) (with [Martin Woodward](https://github.com/martinwoodward))
-- 🧭 [Navigating the DevOps Landscape](https://mybuild.microsoft.com/sessions/16934a22-a3c2-4915-a783-b38903efca0b?WT.mc_id=videos-github-dabrady)
+- 🧠 [MLOps - Building Intelligent Applications](https://www.microsoft.com/experiences/video/mlops-building-intelligent-applications/?WT.mc_id=devops-0000-dabrady)
+- 🧠 [MLOps - Applying DevOps to Machine Learning](https://myignite.techcommunity.microsoft.com/sessions/83003?WT.mc_id=devops-0000-dabrady)
+- 🚀 [Ship it! Build for any platform with Azure Pipelines, and make shipping fun and stress-free](https://myignite.techcommunity.microsoft.com/sessions/81619?WT.mc_id=devops-0000-dabrady) (with [Martin Woodward](https://github.com/martinwoodward))
+- 🧭 [Navigating the DevOps Landscape](https://mybuild.microsoft.com/sessions/16934a22-a3c2-4915-a783-b38903efca0b?WT.mc_id=devops-0000-dabrady)
