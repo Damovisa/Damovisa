@@ -9,8 +9,12 @@ Before GitHub, I spent 4 years as a Cloud Advocate at [Microsoft](https://azure.
 
 Most of the time you'll find me talking to software engineers, IT pros and managers to help them get the most out of their DevOps strategies.
 
+You can find me on Twitter at [@damovisa](https://twitter.com/damovisa) and Mastodon at <a rel="me" href="https://hachyderm.io/@damovisa">hachyderm.io/@damovisa</a>.
+
 ## Recent videos:
 
+- 🪐 [GitHub Universe 2022 - Day 1 keynote](https://www.youtube.com/watch?v=AYRxDoUxcfQ)
+- 🪐 [GitHub Universe 2021 - Coding in the Cloud with Codespaces](https://www.youtube.com/watch?v=xWr_yH_AGVs&list=PL0lo9MOBetEEZgg6veOlWJBeUaDTsgKk-&index=3)
 - 🧫 The DevOps Lab ([Channel 9](https://aka.ms/devopslab) or [YouTube](https://aka.ms/devopslab-yt))
 - 🧠 [MLOps - Building Intelligent Applications](https://www.microsoft.com/experiences/video/mlops-building-intelligent-applications/?WT.mc_id=devops-0000-dabrady)
 - 🧠 [MLOps - Applying DevOps to Machine Learning](https://myignite.techcommunity.microsoft.com/sessions/83003?WT.mc_id=devops-0000-dabrady)
