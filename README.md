@@ -1,7 +1,7 @@
 # Hi, I'm Damian 👋
 _[He/Him]_
 
-I'm a Developer Advocate ☁🥑 at [GitHub](https://github.com) specializing in DevOps and MLOps.
+I manage the Developer Advocacy team ☁🥑 at [GitHub](https://github.com) and specialize in DevOps and MLOps.
 
 After spending a year in Toronto 🍁, I returned to Australia 🦘 in 2018, and currently live in Brisbane.
 
